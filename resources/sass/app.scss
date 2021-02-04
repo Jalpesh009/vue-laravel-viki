@@ -1,0 +1,13 @@
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+@import '~sweetalert2/src/variables';
+
+@import '~sweetalert2/src/sweetalert2';
+
+
+.table_div {
+    height: 200px !important;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
